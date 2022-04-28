@@ -19,7 +19,7 @@
 <div class="main_content">
     <div class="alert hide">
         <i class="fas fa-exclamation-circle"></i>
-        <span class="msg">TEST DE CAMBIO</span>
+        <span class="msg">TEST DE CAMBIO NUMERO 2</span>
         <div class="close-btn">
             <i class="fas fa-times"></i>
         </div>
@@ -27,12 +27,12 @@
 <table id="example" class="display nowrap" style="width:100%">
     <thead>
     <tr>
-        <th>Name</th>
-        <th>Position</th>
-        <th>Office</th>
-        <th>Age</th>
-        <th>Start date</th>
-        <th>Salary</th>
+        <th>NOMBRE</th>
+        <th>POSISCION</th>
+        <th>OFICINA</th>
+        <th>EDAD</th>
+        <th>FECHA INICIAL</th>
+        <th>SALARIO</th>
     </tr>
     </thead>
     <tbody>
